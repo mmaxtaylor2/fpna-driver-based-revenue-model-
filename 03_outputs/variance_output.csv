@@ -1,0 +1,7 @@
+month,account,actual,budget,variance,variance_pct,performance
+2024-01,COGS,45000,43000,2000,4.65%,Unfavorable
+2024-01,Marketing,18000,17000,1000,5.88%,Unfavorable
+2024-01,Revenue,120000,115000,5000,4.35%,Favorable
+2024-02,COGS,47000,46000,1000,2.17%,Unfavorable
+2024-02,Marketing,20000,19000,1000,5.26%,Unfavorable
+2024-02,Revenue,130000,125000,5000,4.00%,Favorable
