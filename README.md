@@ -41,3 +41,6 @@ The outputs from the Python models are visualzied using Google Sheets
 - Driver-based models provide more insight than top-down forecasts 
 - Variance analysis is most efffective when paired with clear visuals
 - Automating FP&A workflows consistency and scalability 
+
+## Related Finanical Modeling Work 
+- In addition to the variance analysis workflow shown here, this project was informed by a broader SaaS operating model built in Google Sheets. The model incorporates headcount planning, payroll and non-payroll operating expenses, and driver-based subscription revenue assumptions to support forward looking FP&A analysis.
